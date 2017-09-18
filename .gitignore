@@ -1,0 +1,12 @@
+# some programs and OSs stick unwanted hidden files in your local
+# this list tells Git to automatically leave out these files
+# when you push to the remote repo
+
+*.DS_Store
+
+*.sublime-project
+*.sublime-workspace
+
+node_modules/
+
+.vscode/
