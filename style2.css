@@ -51,13 +51,13 @@ header{
 .g-recaptcha{
   width:70px;
 }
-.calender{
+.calendar{
   /*background-color: #8B1C62;*/
   font-weight: bold;
   grid-column: 2/3;
 }
 
-#calender{
+#calendar{
   margin:auto;
   width:400px;
   height:200px;
