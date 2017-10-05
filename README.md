@@ -16,16 +16,19 @@ In the future we eventually plan on pooling the group’s expertise and offering
 ### The Site Relaunch
 
 We have big plans for the site
+
 [Tracy]() is helming the main page
+
 [Neil]() is maintaining the backend
-[Ed](www.github.com/L3gomancer) is handling the profile pages section
+
+[Ed](https://github.com/L3gomancer/) is handling the profile pages section
 
 
 
 
 ### Ancient History
 
-Our previous group site was [www.glawebdev.com]
+Our previous group site was [www.glawebdev.com](www.glawebdev.com)
 
 
 
