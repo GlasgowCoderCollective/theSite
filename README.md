@@ -17,18 +17,25 @@ In the future we eventually plan on pooling the group’s expertise and offering
 
 We have big plans for the site
 
-[Tracy]() is helming the main page
+[Tracy](https://github.com/verde79) is helming the main page
 
-[Neil]() is maintaining the backend
+[NeilB](https://github.com/conesco3) is maintaining the backend. We may use Django
 
-[Ed](https://github.com/L3gomancer/) is handling the profile pages section
+[Ed](https://github.com/L3gomancer) is handling the profile pages section
 
+Stretch Goals include:
+A forum
+User accounts with logins
+Polls
+Integration with Slack
+Some experiments with interactivity and animations
 
 
 
 ### Ancient History
 
 Our previous group site was [www.glawebdev.com](www.glawebdev.com)
+previously set up by [NeilD](https://github.com/neildocherty)
 
 
 
