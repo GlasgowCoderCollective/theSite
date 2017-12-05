@@ -6,7 +6,7 @@
 
 We are the Coder Collective! A collection of like-minded technology enthusiasts that is open to people of all (and no) experience levels. We believe programming is most productive and fun when done collectively. Come to a meeting for some social coding!
 
-While we have our origins in web development via FreeCodeCamp we encourage anyone with an ongoing project, or even just curiosity about computers, to come see what others are working on. Later if you feel you can contribute, you can.
+While we have our origins in web development via FreeCodeCamp we encourage anyone with a project, or even just curiosity about coding, to come see what others are working on. Later if you feel you can contribute, you can.
 
 Our current project is the relaunch of the group website. However if you have a current computer-related project feel free to ask the group for help.
 
