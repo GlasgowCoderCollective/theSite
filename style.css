@@ -2,10 +2,11 @@ body{
 }
 
 .navbar{
-  padding:2em;
+  padding:1.2em;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0 !important;
+  color:#b2d8d8;
 }
 
 .main_container{
@@ -15,9 +16,13 @@ body{
   padding: 35px;
   margin-top: -20px;
 }
+
+.info{
+  padding:35px;
+  margin-bottom: 20px;
+}
 .container{
   padding:0 10px 0 10px;
-  background-color: #004c4c;
   border-radius: none;
 }
 
@@ -29,25 +34,31 @@ section{
   grid-template-columns: 1fr;
 }
 
-section,iframe{
-  border-radius: 5px
+section{
+  border-radius: 5px;
   text-align: center;
 }
 
+a:link{
+  text-decoration: none;
+}
 h1,h2,h3{
   text-align: center;
   padding-bottom: 20px;
+  font-weight: bold;
 }
 
 .about{
   background-color: white;
-  opacity:0.7;
+  opacity:0.8;
   padding: 30px !important;
   border-radius: 5px;
-
 }
 
-.join, .calender{
+.info{
+  padding-top:25px;
+}
+.join{
   grid-column: 1;
   text-align: center;
   margin:auto;
@@ -57,22 +68,14 @@ h1,h2,h3{
 .g-recaptcha{
   width:70px;
 }
-.calender{
-
-  font-weight: bold;
-
-  height:200px;
-  border-radius: 5px;
-}
-iframe{
-  display:block;
-  margin:auto;
-  width:100%;
-}
 
 footer{
   background-color: black;
+  color:#b2d8d8;
   text-align: center;
-  margin-bottom: 20px 0 -10px 0;
+  margin-bottom: 30px 0 -10px 0;
   padding:10px;
+}
+footer>p{
+  padding:5px;
 }
