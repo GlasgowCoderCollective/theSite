@@ -1,0 +1,8 @@
+{
+	"name": "gcc-thesite",
+	"main": "app.js",
+	"dependencies": {
+		"ejs": "*",
+		"express": "*"
+	}
+}
