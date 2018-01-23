@@ -5,11 +5,15 @@
   <% include ../partials/head %>
 </head>
 
-<body class="container">
-  <header>
-    <% include ../partials/header %>
-  </header>
+<body class="container-fluid">
 
+  <% include ../partials/header %>
+
+  <div class="row">
+    <div class="text-center">
+      <img src="images/group.jpg" class="img-responsive">
+    </div>
+  </div>
 <!--
   <div class="container fluid ">
     <section class="fluid about">
@@ -26,7 +30,7 @@
         <form action="slack" method="post">
 
           <input type="email" name="email" placeholder="youremail@gmail.com" autofocus/>
-          <br>
+        class="container"  <br>
           <br>
           <input style="strong" type="submit" value="Join Us" , disabled>
         </form>
@@ -49,6 +53,7 @@
   <footer>
     <% include ../partials/footer %>
   </footer>
+  </div>
 </body>
 
 </html>
