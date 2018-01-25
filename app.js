@@ -14,6 +14,11 @@ app.get('/', function(req, res) {
     res.render('pages/index');
 });
 
+// forums page 
+app.get('/', function(req, res) {
+    res.render('pages/forums');
+});
+
 // enable access to static pages
 app.use(express.static(path.join(__dirname, 'static')));
 
