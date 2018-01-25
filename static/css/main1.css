@@ -1,4 +1,4 @@
-.navbar{
+/*.navbar{
   padding:2em;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -12,19 +12,26 @@
   padding: 35px;
   margin-top: -20px;
 }
+*/
 .container{
   padding:0 10px 0 10px;
   background-color: #004c4c;
   border-radius: none;
 }
 
+.jumbotron {
+  height: 80px;
+  vertical-align: middle;
+}
+
+/*
 section{
   margin:25px;
   padding:20px;
   background-color: white;
   display:grid;
   grid-template-columns: 1fr;
-}
+}*/
 
 section,iframe{
   border-radius: 5px;
@@ -44,7 +51,7 @@ h1,h2,h3{
 
 }
 
-.join, .calender{
+.join, .calendar{
   grid-column: 1;
   text-align: center;
   margin:auto;
@@ -54,7 +61,7 @@ h1,h2,h3{
 .g-recaptcha{
   width:70px;
 }
-.calender{
+.calendar{
 
   font-weight: bold;
 

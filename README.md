@@ -1,3 +1,5 @@
+# This branch is for converting the site to an Express NodeJS app.
+
 # The glasgow Coder Collective
 
 ![image arise Fawlkes](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mozilla_Phoenix_logo_vector.svg/500px-Mozilla_Phoenix_logo_vector.svg.png)

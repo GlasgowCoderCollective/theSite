@@ -1,0 +1,11 @@
+<script>
+    function copyrightYear() {
+        var year = new Date().getFullYear();
+        document.getElementById("copyright").innerHTML = 'Copyright &copy; ' + year + ' Glasgow Coder Collective.';
+    }
+
+    window.onload = copyrightYear;
+</script>
+
+<div class="text-center" id="copyright"></div>
+<div class="text-center" id="neil">Dedicated to the memory of handsome Neil Boyd who sadly passed away in December 2017.</div>
