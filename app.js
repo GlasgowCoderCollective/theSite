@@ -15,7 +15,7 @@ app.get('/', function(req, res) {
 });
 
 // forums page 
-app.get('/', function(req, res) {
+app.get('/forums', function(req, res) {
     res.render('pages/forums');
 });
 
