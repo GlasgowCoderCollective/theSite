@@ -23,3 +23,4 @@ app.get('/', function(req, res) {
 app.use(express.static(path.join(__dirname, 'static')));
 
 app.listen(PORT);
+console.log("Listening at localhost:" + PORT);
